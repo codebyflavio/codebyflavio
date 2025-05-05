@@ -93,11 +93,3 @@ me.say_hi()
 <p align="left">Atuar como desenvolvedor Python, contribuindo para soluções eficientes em backend e testes de software.</p>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FlavioPYDEV/FlavioPYDEV/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FlavioPYDEV/FlavioPYDEV/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FlavioPYDEV/FlavioPYDEV/output/pacman-contribution-graph.svg">
-</picture>
-
-###
