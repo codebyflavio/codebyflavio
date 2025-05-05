@@ -2,6 +2,14 @@
   <img height="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWt0ZzlrNHZtc3M2bXIyMGppa3pyYjc5OTlkcXlsOTV1cHg0eno3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
 </div>
 
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=FlavioPYDEV.FlavioPYDEV&"  />
+    <a href="https://www.linkedin.com/in/flavio-rodrigues-de-freitas-905518228/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -20,18 +28,6 @@ me = SoftwareDeveloper()
 me.say_hi()
 ```
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/flavio-rodrigues-de-freitas-905518228/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=FlavioPYDEV.FlavioPYDEV&"  />
-</div>
-
 ###
 
 <h3 align="left">👩‍💻  Sobre min:</h3>
@@ -46,11 +42,11 @@ me.say_hi()
 
 ###
 
-<h3 align="left">🌱 Atualmente estou focado em:</h3>
+<h3 align="left">🌱 Blog em construção, novidades em breve!</h3>
 
 ###
 
-<p align="left">Melhorar minhas habilidades em desenvolvimento de APIs e microsserviços.<br>Explorar mais sobre aprendizado de máquina e inteligência artificial com PyTorch.<br>Otimizar pipelines de CI/CD e aumentar a eficiência do desenvolvimento e deploy de sistemas.</p>
+<p align="left">🚀Neste espaço, vou compartilhar 🐍 Tutoriais Python (do básico ao avançado), 🔧 Arquitetura de Software & Clean Code, 🚀 Django, FastAPI e automação, 🤖 IA/ML aplicado com Python e 💡 Dicas de produtividade para devs. Seja para aprender, resolver bugs ou debater boas práticas, você é bem-vindo(a)!</p>
 
 ###
 
