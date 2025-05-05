@@ -2,13 +2,11 @@
   <img height="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWt0ZzlrNHZtc3M2bXIyMGppa3pyYjc5OTlkcXlsOTV1cHg0eno3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
 </div>
 
-###
-
+```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-
-class SoftwareEngineer:
+class SoftwareDeveloper:
 
     def __init__(self):
         self.name = "Flavio Rodrigues"
@@ -16,11 +14,11 @@ class SoftwareEngineer:
         self.language_spoken = ["pt_BR", "en_US"]
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+        print("Obrigado por aparecer por aqui, espero que tenha encontrado oque buscava.")
 
-
-me = SoftwareEngineer()
+me = SoftwareDeveloper()
 me.say_hi()
+```
 
 <div align="center">
   <a href="https://www.linkedin.com/in/flavio-rodrigues-de-freitas-905518228/" target="_blank">
