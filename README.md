@@ -4,6 +4,24 @@
 
 ###
 
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Flavio Rodrigues"
+        self.role = "Software Developer"
+        self.language_spoken = ["pt_BR", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+
 <div align="center">
   <a href="https://www.linkedin.com/in/flavio-rodrigues-de-freitas-905518228/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
