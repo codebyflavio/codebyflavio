@@ -10,22 +10,21 @@
   </a>
 </div>
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+```Js
+class SoftwareDeveloper {
+  constructor() {
+    this.name = "Flavio Rodrigues";
+    this.role = "Software Developer";
+    this.language_spoken = ["pt_BR", "en_US"];
+  }
 
-class SoftwareDeveloper:
+  sayHi() {
+    console.log("Obrigado por aparecer por aqui, espero que tenha encontrado o que buscava.");
+  }
+}
 
-    def __init__(self):
-        self.name = "Flavio Rodrigues"
-        self.role = "Software Developer"
-        self.language_spoken = ["pt_BR", "en_US"]
-
-    def say_hi(self):
-        print("Obrigado por aparecer por aqui, espero que tenha encontrado oque buscava.")
-
-me = SoftwareDeveloper()
-me.say_hi()
+const me = new SoftwareDeveloper();
+me.sayHi();
 ```
 
 ###
