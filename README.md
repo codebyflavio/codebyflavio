@@ -9,10 +9,12 @@
 <p align="left">
   <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXY3aG1sMWV1aHUzbHFzZGhwZnA1N2lvNXJhZXltc21xOW0xN3dwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" />
   
-  -- 🔭 Working on exciting JavaScript projects
-  -- 🌱 Learning Node.js and exploring Tailwind CSS
-  -- 💼 Looking for new opportunities as a Front-end Developer
-  -- 📫 Reach me at: flaviorodriguestrb@gmail.com
+  -- 🔭 Working on exciting JavaScript projects <br> 
+  <br>
+  -- 🌱 Learning Node.js and exploring Tailwind CSS <br>
+  <br>
+  -- 📫 Reach me at: flaviorodriguestrb@gmail.com <br>
+  <br>
   
 </p>
 
