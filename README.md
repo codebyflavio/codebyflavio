@@ -1,6 +1,11 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+profile!%F0%9F%90%88" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+profile!%F0%9F%90%88" alt="Typing SVG" />
+  </a>
+</p>
 
 <h3 align="center">A passionate Front-end developer from Brazil</h3>
+
 
 <p align="left">
   <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXY3aG1sMWV1aHUzbHFzZGhwZnA1N2lvNXJhZXltc21xOW0xN3dwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" />
