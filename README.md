@@ -6,27 +6,20 @@
 
 <h3 align="left">A passionate Web Developer from Brazil</h3>
 
-
 <p align="left">
   <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXY3aG1sMWV1aHUzbHFzZGhwZnA1N2lvNXJhZXltc21xOW0xN3dwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" />
   
-  
-  - 🔭 I’m currently working on **JavaScript Projects**
-
-  - 🌱 I’m currently learning **Node.js and TailWind**
-
-  - 📫 How to reach me **flaviorodriguestrb@gmail.com**
+  - 🔭 I’m currently working on **JavaScript Projects**  
+  - 🌱 I’m currently learning **Node.js and TailWind**  
+  - 📫 How to reach me: **flaviorodriguestrb@gmail.com**
 </p>
 
-<h3 align="left">
-  I'm currently looking for a Front-end Developer opportunity💼.  
-</h3>
-
+<h3 align="left">I'm currently looking for a Front-end Developer opportunity 💼</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="(https://www.linkedin.com/in/flavio-rodrigues-de-freitas-905518228/)" target="(https://www.linkedin.com/in/flavio-rodrigues-de-freitas-905518228/)">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="shalinibhatt" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/flavio-rodrigues-de-freitas-905518228/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 
