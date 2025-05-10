@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">A passionate Front-end developer from Brazil</h3>
+<h3 align="left">A passionate Web Developer from Brazil</h3>
 
 
 <p align="left">
@@ -17,6 +17,11 @@
 
   - 📫 How to reach me **flaviorodriguestrb@gmail.com**
 </p>
+
+<h3 align="left">
+  I'm currently looking for a Front-end Developer opportunity💼.  
+</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
