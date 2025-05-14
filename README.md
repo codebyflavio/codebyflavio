@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/flavio-rodrigues-de-freitas-905518228/" target="_blank">
+  <a href="[https://www.linkedin.com/in/flavio-rodrigues-de-freitas-905518228/](https://www.linkedin.com/in/flavio-rodrigues-9347aa365/)" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
